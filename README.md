@@ -104,5 +104,6 @@
 - 数据来源：kaggle 2015年竞赛[Click-Through Rate Prediction](https://www.kaggle.com/competitions/avazu-ctr-prediction)
 ***
 __主要依赖库：[sklearn](https://scikit-learn.org/stable/)、[keras](https://keras-cn.readthedocs.io/en/latest/)、[tensorflow](https://tensorflow.google.cn/?hl=zh-cn)、[pytorch](https://pytorch-cn.readthedocs.io/zh/latest/)、[scipy](https://docs.scipy.org/doc/scipy-1.13.0/index.html)、[imblearn](https://imbalanced-learn.org/stable/index.html)、[surprise](https://surprise.readthedocs.io/en/stable/index.html)、[mlxtend](https://rasbt.github.io/mlxtend/)__  
-__主要数据来源：[天池](https://tianchi.aliyun.com/dataset?spm=a2c22.27124976.J_3941670930.20.71de132aJGzOYY)、[kaggle](https://www.kaggle.com)、[sklearn库自带](https://scikit-learn.org/stable/api/sklearn.datasets.html)、[keras自带](https://keras-cn.readthedocs.io/en/latest/legacy/other/datasets/)、[pytorch自带](https://pytorch-cn.readthedocs.io/zh/latest/torchvision/torchvision-datasets/)__  
+__主要数据来源：[天池](https://tianchi.aliyun.com/dataset?spm=a2c22.27124976.J_3941670930.20.71de132aJGzOYY)、[kaggle](https://www.kaggle.com)、[sklearn库自带](https://scikit-learn.org/stable/api/sklearn.datasets.html)、[keras自带](https://keras-cn.readthedocs.io/en/latest/legacy/other/datasets/)、[pytorch自带](https://pytorch-cn.readthedocs.io/zh/latest/torchvision/torchvision-datasets/)__   
+在算力上有困难，可以尝试使用Kaggle免费的GPU和TPU  
 如有任何问题，请Email我：ouyangruizhi@bjfu.edu.cn
