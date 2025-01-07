@@ -38,7 +38,7 @@
 ## 聚类分析
 - 第七次作业
 - 数据来源：Kaggle提供的[Online Retail Data Set from UCI ML repo](https://www.kaggle.com/datasets/jihyeseo/online-retail-data-set-from-uci-ml-repo)
-- 内容：RBF智能营销
+- 内容：RFM智能营销
 - 模型：Hierarchical clustering层次聚类、K-means、MiniBatchKMeans、Affinity Propagation、Spectral clustering、DBSCAN、
 ## 推荐算法之关联分析
 - 第八次作业
