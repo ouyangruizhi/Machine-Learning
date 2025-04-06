@@ -78,16 +78,16 @@
 - 第十四次作业
 - 数据来源：akshare的碳价数据🌲
 - 模型：CNN、LSTM、GRU、Attention
-### 集成学习之Boosting
+### 集成学习Ensemble Learning之Boosting
 - 第十五次作业
 - 数据来源：阿里天池提供的[Banking Dataset Classification银行数据集分类🏦](https://tianchi.aliyun.com/dataset/92775)
 - 模型：Adaboost-Logistic、XGBoost、LightGBM
 - 重点在于 __调参__
-### 集成学习之Bagging
+### 集成学习Ensemble Learning之Bagging
 - 第十六次作业
 - 数据来源：阿里天池提供的[Banking Dataset Classification银行数据集分类🏦](https://tianchi.aliyun.com/dataset/92775)
 - 模型：Bagging组合Decision Tree/SVM/Logistic、Random Forestry
-### 集成学习之Stacking&Voting
+### 集成学习Ensemble Learning之Stacking&Voting
 - 第十七作业
 - 数据来源：阿里天池提供的[Banking Dataset Classification银行数据集分类🏦](https://tianchi.aliyun.com/dataset/92775)
 - 模型：Stacking组合Random Forestry/SVM/HGB、Voting组合Random Forestry/SVM/HGB
